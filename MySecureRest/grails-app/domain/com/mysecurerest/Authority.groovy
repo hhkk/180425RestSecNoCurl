@@ -3,6 +3,7 @@ package com.mysecurerest
 import groovy.transform.EqualsAndHashCode
 import groovy.transform.ToString
 import grails.compiler.GrailsCompileStatic
+import com.mysecurerest.*
 
 @GrailsCompileStatic
 @EqualsAndHashCode(includes='authority')
